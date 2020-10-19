@@ -1,0 +1,16 @@
+[1016/042926.329:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1016/071809.015:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1016/082929.938:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1016/083902.183:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Amanda\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\4986deb2-6503-4385-ae8f-833427b34e1d: O sistema não pode encontrar o caminho especificado. (0x3)
+[1017/111740.510:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1018/034207.897:ERROR:process_reader_win.cc(127)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1018/034207.897:ERROR:process_reader_win.cc(127)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1018/034208.209:ERROR:exception_snapshot_win.cc(100)] thread ID 15424 not found in process
+[1018/034208.209:ERROR:exception_snapshot_win.cc(100)] thread ID 14516 not found in process
+[1018/034209.612:ERROR:minidumpwritedump_with_crashpad_info.cc(452)] Failed to call MiniDumpWriteDump: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x8007012B)
+[1018/034209.612:ERROR:minidumpwritedump_with_crashpad_info.cc(661)] Failed to write minidump file
+[1018/034209.612:ERROR:crash_report_exception_handler.cc(134)] TryMiniDumpWriteDumpWithCrashpadInfo failed
+[1018/034209.659:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2377aa13870 of 72 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[1018/034209.659:WARNING:pe_image_annotations_reader.cc(135)] could not read annotations list object in C:\Program Files (x86)\Microsoft\Edge\Application\86.0.622.43\msedge_elf.dll
+[1018/034209.659:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2377aa3d140 of 72 bytes failed: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída. (0x12B)
+[1018/034209.659:WARNING:pe_image_annotations_reader.cc(135)] could not read annotations list object in C:\Program Files (x86)\Microsoft\Edge\Application\86.0.622.43\msedge.dll
